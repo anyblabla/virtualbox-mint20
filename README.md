@@ -13,3 +13,7 @@ Script d'installations logiciel VirtualBox pour Linux Mint 20 (Cinnamon/Mate/xfc
 chmod +x virtualbox-mint20.sh
 
 sudo ./virtualbox-mint20.sh
+
+# Demonstration/Démonstration
+
+https://youtu.be/xdoDhfwDf70
